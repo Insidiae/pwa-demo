@@ -1,0 +1,31 @@
+{
+  "name": "Activity Launcher",
+  "short_name": "Activities",
+  "start_url": "./?utm_source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#bb7162",
+  "background_color": "#00c2cb",
+  "description": "Customixe your home screen with your own deep links!",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable_icon_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "icons/screenshot.png",
+      "sizes": "1170x2532",
+      "type": "image/png"
+    }
+  ]
+}
